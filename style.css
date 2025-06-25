@@ -9,18 +9,12 @@ h1 {
   color: #333;
 }
 
-.game-container {
-  background: white;
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 30px;
-  border-radius: 10px;
-}
+
 
 input[type="number"] {
   padding: 10px;
   font-size: 16px;
-  width: 60%;
+  width:30%;
   margin-bottom: 15px;
 }
 
@@ -28,8 +22,8 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #007bff;
-  color: white;
+  background-color: #f4021e;
+  color: rgb(25, 17, 17);
   border: none;
   border-radius: 5px;
 }
